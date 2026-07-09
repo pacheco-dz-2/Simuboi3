@@ -1,0 +1,8 @@
+{
+  "name": "SIMUBOI v3.0",
+  "description": "Análise econômica avançada do confinamento de bovinos de corte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
